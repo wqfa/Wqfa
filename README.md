@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github/wqfa.com](https://github/wqfa.com)
 
-- 💬 Ask me about **I Lovey Self**
+- 💬 Ask me about **Fucked Up**
 
 - 📫 How to reach me **x6uc88@gmail.com**
 
