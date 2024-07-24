@@ -3,21 +3,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wqfa&label=Profile%20views&color=0e75b6&style=flat" alt="wqfa" /> </p>
 
-<p align="left"> <a href="https://twitter.com/g_7_3" target="blank"><img src="https://img.shields.io/twitter/follow/g_7_3?logo=twitter&style=for-the-badge" alt="g_7_3" /></a> </p>
+<p align="left"> <a href="https://twitter.com/g_7_3" target="blank"><img src="https://img.shields.io/twitter/follow/v_8_a?logo=twitter&style=for-the-badge" alt="v_8_a" /></a> </p>
 
 - 🔭 I’m currently working on [Train of Death](https://t.me/C15CS)
 
-- 🤝 I’m looking for help with [Hacking](https://t.me/C15CS)
+- 🤝 I’m looking for help with [Machine learning with ai](https://t.me/C15CS)
 
 - 👨‍💻 All of my projects are available at [https://github/wqfa.com](https://github/wqfa.com)
 
-- 💬 Ask me about **Fucked Up**
+- 💬 Ask me about **Everything about programming**
 
 - 📫 How to reach me **x6uc88@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/g_7_3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="g_7_3" height="30" width="40" /></a>
+<a href="https://twitter.com/v_8_a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="v_8_a" height="30" width="40" /></a>
 <a href="https://fb.com/lcx3l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lcx3l" height="30" width="40" /></a>
 <a href="https://instagram.com/g03.6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="g03.6" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/7.t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="7.t" height="30" width="40" /></a>
